@@ -38,7 +38,7 @@ We utilize a **Log-Ratio Change Detection** approach, comparing pre-monsoon base
 
 ## 📉 Results & Hydraulic Insights
 
-* **Total Inundated Area**: `~XX.X km²` (Calculated Peak)
+* **Total Inundated Area**: `22.516480427401834` (Calculated Peak)
 * **Critical Date**: July 25 - July 30, 2024
 * **Basin Response**: Rapid saturation observed in the lower Savitri catchment.
 
